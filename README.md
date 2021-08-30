@@ -23,9 +23,9 @@ As to the mechanics of the application, the following features were critical to 
 1. Download the code from the maven project and build it in your local IDE
 2. Run the application using: $mvn spring-boot:run
 3. Open your browser to http://localhost:8080/socialmedia/ and perform any of the following requests:
-   a. http://localhost:8080/socialmedia/own?name=Matt   (Substitute 'Jill' in this request with Jill or Jack)
-   b. http://localhost:8080/socialmedia/following?follower=Matt&followee=Jill   (Substitute any name in this request with Jill, Jack or Matt)
-   c. http://localhost:8080/socialmedia/aggregated?name=Matt   (Substitute 'Matt' in this request with Jill or Jack)
+-  http://localhost:8080/socialmedia/own?name=Matt   (Substitute 'Jill' in this request with Jill or Jack)
+-  http://localhost:8080/socialmedia/following?follower=Matt&followee=Jill   (Substitute any name in this request with Jill, Jack or Matt)
+-  http://localhost:8080/socialmedia/aggregated?name=Matt   (Substitute 'Matt' in this request with Jill or Jack)
 
 Nigel Carty
 August 24, 2021
