@@ -26,6 +26,7 @@ As to the mechanics of the application, the following features were critical to 
 -  http://localhost:8080/socialmedia/own?name=Matt   (Substitute 'Matt' in this request with Jill or Jack)
 -  http://localhost:8080/socialmedia/following?follower=Matt&followee=Jill   (Substitute any name in this request with Jill, Jack or Matt)
 -  http://localhost:8080/socialmedia/aggregated?name=Matt   (Substitute 'Matt' in this request with Jill or Jack)
+-  Refresh your screen every few minutes for requests 2 and 3 and see how the time changes.
 
 Nigel Carty
 August 24, 2021
