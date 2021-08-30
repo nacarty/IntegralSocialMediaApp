@@ -19,7 +19,7 @@ As to the mechanics of the application, the following features were critical to 
    cross-referencing to ensure that the system remains consistent
 5. ArrayLists were used to maintain the lists described in 4 above. This data structure is ideal for maintaining unsorted data
 
-##How To Use The App
+## How To Use The App
 1. Download the code from the maven project and build it in your local IDE
 2. Run the application using: $mvn spring-boot:run
 3. Open your browser to http://localhost:8080/socialmedia/ and perform any of the following requests:
